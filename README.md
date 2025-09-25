@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reina Balqis</h1>
-<h3 align="center">I'am a student at Multimedia Nusantara University who is interested in data science</h3>
+<h3 align="center">A fresh graduate in Information Systems</h3>
 
 - ⚡ Fun fact **I Love K-Drama**
 
